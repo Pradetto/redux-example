@@ -25,3 +25,9 @@
 .counter button {
   margin: .5rem
 }
+
+@media (max-width: 600px) {
+  .value{
+    color: red;
+  }
+}
